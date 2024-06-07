@@ -4,6 +4,9 @@ body {
 
 .container {
     max-width: 500px;
+    border:solid;
+    width:400px;
+    height:400px;
     margin: 50px auto;
 }
 
