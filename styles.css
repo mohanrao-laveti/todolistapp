@@ -4,6 +4,7 @@ body {
 
 .container {
     max-width: 500px;
+    background-color:#453217;
     border:solid;
     width:400px;
     height:400px;
