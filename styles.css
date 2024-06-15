@@ -6,6 +6,7 @@ body {
     max-width: 500px;
     background-color:#453217;
     border:solid;
+    border-radius:20px;
     width:400px;
     height:400px;
     margin: 50px auto;
@@ -25,7 +26,7 @@ button {
     padding: 10px 20px;
     background-color: #007bff;
     color: white;
-    border: none;
+    border-radius: 20px;
     cursor: pointer;
 }
 
