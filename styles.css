@@ -46,4 +46,5 @@ li {
     color: red;
     margin-left: 5px;
     cursor: pointer;
+    border-radius:10px;
 }
