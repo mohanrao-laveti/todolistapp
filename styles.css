@@ -4,7 +4,7 @@ body {
 
 .container {
     max-width: 500px;
-    background-color:#453217;
+    background-color:yellow;
     border:solid;
     border-radius:20px;
     width:400px;
@@ -17,14 +17,14 @@ h1 {
 }
 
 input[type="text"] {
-    width: 100%;
+    width: 80%;
     padding: 10px;
     margin-bottom: 10px;
 }
 
 button {
-    padding: 10px 20px;
-    background-color: #007bff;
+    padding: 10px 10px;
+    background-color: #red;
     color: white;
     border-radius: 20px;
     cursor: pointer;
